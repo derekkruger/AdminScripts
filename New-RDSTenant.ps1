@@ -1,0 +1,1 @@
+New-RdsTenant -Name "DRG Technologies" -AadTenantId f16a1a87-f783-411d-b4ed-e15b6c7510f8 -AzureSubscriptionId 2303e96f-ef2c-4f61-84d2-252a2e4445f1

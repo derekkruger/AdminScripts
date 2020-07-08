@@ -1,0 +1,1 @@
+New-VM -Name Win10VM -MemoryStartupBytes 4GB -BootDevice vhd -VHDPath D:\VHDs\thevhd.vhdx -Path d:\VHDS -Generation 2 -Switch "Default Switch"
